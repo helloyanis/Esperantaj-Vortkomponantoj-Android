@@ -1,0 +1,5 @@
+Esperanta Vortkomponentoj, aŭ mallonge VortKom, estas vortara sistemo por Esperanta lingvo, kiu dividas vortojn en plurajn partojn nomatajn "komponantoj".
+
+Vi povas serĉi vortojn, kaj la aplikaĵo konstruos la plej verŝajnan rezulton surbaze de la komponantoj, kiujn vi konservis!
+
+Inkluzivas multajn funkciojn por plibonigi la vivkvaliton, kiel ekzemple aŭtomatajn akcentojn! cx fariĝas ĉ!

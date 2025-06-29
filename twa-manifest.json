@@ -1,0 +1,53 @@
+{
+  "packageId": "dev.helloyanis.vortkom.esperanto",
+  "host": "vortkom.xn--3s8h30f.ws",
+  "name": "Esperantaj vortkomponantoj",
+  "launcherName": "VortKom",
+  "display": "standalone",
+  "themeColor": "#78A75A",
+  "themeColorDark": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#000000",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "https://vortkom.xn--3s8h30f.ws/assets/piktogramoj/icon.svg",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://vortkom.xn--3s8h30f.ws/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://vortkom.xn--3s8h30f.ws/",
+  "minSdkVersion": 21,
+  "orientation": "default",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "protocolHandlers": [],
+  "fileHandlers": [
+    {
+      "actionUrl": "https://vortkom.xn--3s8h30f.ws/",
+      "mimeTypes": [
+        "application/json"
+      ]
+    }
+  ],
+  "launchHandlerClientMode": [
+    "navigate-existing",
+    "auto"
+  ],
+  "appVersion": "1"
+}

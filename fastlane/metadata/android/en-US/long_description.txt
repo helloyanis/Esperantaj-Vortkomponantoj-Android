@@ -1,0 +1,5 @@
+Esperanto Vortkomponentoj (Esperanto word components), VortKom for short, is a dictionnary system for Esperanto that decomposes the words into multiple parts called "components".
+
+You can then search for words, and the results will build the most likely result based on the components you have saved!
+
+Includes many quality of life features like automatic accents! cx becomes ĉ!
