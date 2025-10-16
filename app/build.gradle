@@ -51,8 +51,8 @@ def twaManifest = [
 ]
 
 android {
-    compileSdkVersion 36
-    namespace "dev.helloyanis.vortkom.esperanto"
+    compileSdkVersion =  36
+    namespace = "dev.helloyanis.vortkom.esperanto"
     defaultConfig {
         applicationId "dev.helloyanis.vortkom.esperanto"
         minSdkVersion 21
@@ -164,7 +164,7 @@ android {
         targetCompatibility JavaVersion.VERSION_17
     }
     lintOptions {
-        checkReleaseBuilds false
+        checkReleaseBuilds = false
     }
     dependenciesInfo {
         // Disables dependency metadata when building APKs.
